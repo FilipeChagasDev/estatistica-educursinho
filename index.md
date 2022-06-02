@@ -1,8 +1,3 @@
-# Estatística e Probabilidade - Educursinho
-Notas de aula de estatística do projeto Educursinho (cursinho preparatório para o ENEM).
-
-Prof. Filipe Chagas
-
 ## Notas de aula
 ### Parte 1 - Pré-estatística
 * **Aula 1 -** Somatório, medidas de tendência central e medidas de dispersão [(download)](https://github.com/FilipeChagasDev/estatistica-educursinho/raw/main/aula-1.pdf)
