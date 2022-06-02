@@ -10,7 +10,7 @@ Prof. Filipe Chagas.
 * **Aula 2 -** Conjuntos: definição, notações e operações básicas
 
 ### Parte 2 - Estatística descritiva
-* **Aula 3 -** População, amostra, espaço amostral, frequência absoluta e frequência relativa
+* **Aula 3 -** População, amostra, variáveis, espaço amostral, frequência absoluta e frequência relativa
 
 ### Parte 3 - Probabilidade
 * **Aula 4 -** Variáveis aleatórias, valor esperado e lei dos grandes números
