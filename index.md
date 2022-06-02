@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Estatística e Probabilidade - Educursinho
+Notas de aula de estatística do projeto Educursinho (cursinho preparatório para o ENEM).
 
-You can use the [editor on GitHub](https://github.com/FilipeChagasDev/estatistica-educursinho/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Prof. Filipe Chagas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Notas de aula
+### Parte 1 - Pré-estatística
+* **Aula 1 -** Somatório, medidas de tendência central e medidas de dispersão [(download)](https://github.com/FilipeChagasDev/estatistica-educursinho/raw/main/aula-1.pdf)
+* **Aula 2 -** Conjuntos: definição, notações e operações básicas
 
-### Markdown
+### Parte 2 - Estatística descritiva
+* **Aula 3 -** População, amostra, espaço amostral, frequência absoluta e frequência relativa
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Parte 3 - Probabilidade
+* **Aula 4 -** Variáveis aleatórias, valor esperado e lei dos grandes números
+* **Aula 5 -** Eventos e operações com eventos
+* **Aula 6 -** Probabilidade condicional
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FilipeChagasDev/estatistica-educursinho/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Parte 3 - Contagem
+### Parte 4 - Progressões numéricas
+### Parte 5 - Matemática financeira
