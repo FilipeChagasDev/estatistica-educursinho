@@ -17,6 +17,6 @@ Prof. Filipe Chagas.
 * **Aula 5 -** Eventos e operações com eventos
 * **Aula 6 -** Probabilidade condicional
 
-### Parte 3 - Contagem
-### Parte 4 - Progressões numéricas
-### Parte 5 - Matemática financeira
+### Parte 4 - Contagem
+### Parte 5 - Progressões numéricas
+### Parte 6 - Matemática financeira
