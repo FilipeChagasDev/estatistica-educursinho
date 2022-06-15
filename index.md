@@ -7,15 +7,16 @@ Prof. Filipe Chagas.
 ## Notas de aula
 ### Parte 1 - Pré-estatística
 * **Aula 1 -** Somatório, medidas de tendência central e medidas de dispersão [(download)](https://github.com/FilipeChagasDev/estatistica-educursinho/raw/main/aula-1.pdf)
-* **Aula 2 -** Conjuntos: definição, notações e operações básicas
+* **Aula 2 -** Exercícios [(download)](https://github.com/FilipeChagasDev/estatistica-educursinho/raw/main/aula-2.pdf)
+* **Aula 3 -** Conjuntos: definição, notações e operações básicas
 
 ### Parte 2 - Estatística descritiva
-* **Aula 3 -** População, amostra, variáveis, espaço amostral, frequência absoluta e frequência relativa
+* **Aula 4 -** População, amostra, variáveis, espaço amostral, frequência absoluta e frequência relativa
 
 ### Parte 3 - Probabilidade
-* **Aula 4 -** Variáveis aleatórias, valor esperado e lei dos grandes números
-* **Aula 5 -** Eventos e operações com eventos
-* **Aula 6 -** Probabilidade condicional
+* **Aula 5 -** Variáveis aleatórias, valor esperado e lei dos grandes números
+* **Aula 6 -** Eventos e operações com eventos
+* **Aula 7 -** Probabilidade condicional
 
 ### Parte 4 - Contagem
 ### Parte 5 - Progressões numéricas
